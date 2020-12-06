@@ -10,7 +10,7 @@ Hello from new Readme!
 # Life beyond Repeat
 :mortar_board: [OMSCS Journey](https://omscs.royniladri.dev/): Follow my persuit of Masters from Grorgia Institute of Technology\
 :camera: [Instagram@niladriclicks](https://www.instagram.com/niladriclicks/): Follow my photography\
-:pencil: [YourQuote@Nix](https://www.yourquote.in/niladri-roy-f2tt/quotes): Checkout my scribbbles\
-:gift_heart: [Patreon](https://www.patreon.com/royniladri): Support me on Patreon\
+:pencil: [YourQuote@Nix](https://www.yourquote.in/niladri-roy-f2tt/quotes): Checkout my scribbbles
 <!-- :eye: ![Profile views](https://gpvc.arturio.dev/royNiladri) -->
 
+<a href="https://www.buymeacoffee.com/royniladri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="170"></a>
