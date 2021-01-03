@@ -14,3 +14,9 @@ Hello from new Readme!
 <!-- :eye: ![Profile views](https://gpvc.arturio.dev/royNiladri) -->
 
 <a href="https://www.buymeacoffee.com/royniladri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="170"></a>
+
+# Find me @
+[![Website](https://img.shields.io/static/v1?label=&message=Roy%20Niladri&color=2069e0&style=for-the-badge)](https://royniladri.dev/)
+[![Hashnode](https://img.shields.io/static/v1?label=&message=Ones%20%26%20Zeros&color=2962ff&style=for-the-badge&logo=hashnode&logoColor=white)](https://ones-zeros.royniladri.dev/)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077b5&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roy-niladri/)
+[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&color=0a0a0a&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/royniladri/)
