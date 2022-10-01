@@ -1,11 +1,22 @@
 Hello from new Readme!
 
 # Eat Sleep Code Repeat
-[![trophy](https://github-profile-trophy.vercel.app/?username=royNiladri&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+## Languages
+[![My Languages](https://skillicons.dev/icons?i=js,ts,python,sass,c,cpp,cs,java,html,css)](https://skillicons.dev)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royNiladri&layout=compact&langs_count=8) -->
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=royNiladri&show_icons=true&count_private=true&include_all_commits=true&hide=contribs) -->
+## Frameworks + Database
+[![My Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,redux,angular,jest,spring,unity,mongodb,mysql)](https://skillicons.dev)
 
+## Build/Ops
+[![My Build tools](https://skillicons.dev/icons?i=jenkins,githubactions,docker,webpack,linux,bash)](https://skillicons.dev)
+
+## Editors
+[![My Build tools](https://skillicons.dev/icons?i=vscode,eclipse,idea,unity)](https://skillicons.dev)
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royNiladri&layout=compact&langs_count=8)
+![Github stats](https://github-readme-stats.vercel.app/api?username=royNiladri&show_icons=true&count_private=true&include_all_commits=true&hide=contribs) 
+-->
 # Published Projects
 ### [JS Big Decimal](https://github.com/royNiladri/js-big-decimal) ![Travis](https://img.shields.io/travis/royNiladri/js-big-decimal.svg?style=flat-square) [![npm](https://img.shields.io/npm/v/js-big-decimal.svg?style=flat-square)](https://www.npmjs.com/package/js-big-decimal) [![npm](https://img.shields.io/npm/dt/js-big-decimal.svg?style=flat-square)](https://www.npmjs.com/package/js-big-decimal)
 
