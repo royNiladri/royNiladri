@@ -11,7 +11,7 @@ Hello from new Readme!
 [![My Build tools](https://skillicons.dev/icons?i=jenkins,githubactions,docker,webpack,linux,bash)](https://skillicons.dev)
 
 ## Editors
-[![My Build tools](https://skillicons.dev/icons?i=vscode,eclipse,idea,unity)](https://skillicons.dev)
+[![My Build tools](https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,unity)](https://skillicons.dev)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royNiladri&layout=compact&langs_count=8)
