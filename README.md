@@ -2,7 +2,18 @@ Hello from new Readme!
 
 # Eat Sleep Code Repeat
 ## Languages
-[![My Languages](http://skillicons.dev/icons?i=js,ts,python,sass,c,cpp,cs,java,html,css)](https://skillicons.dev)
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" title="Javascript" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" title="Typescript" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" title="SASS" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML" height="42" width="auto" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS" height="42" width="auto" /> &nbsp;
+</div>
 
 ## Frameworks + Database
 [![My Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,redux,angular,jest,spring,unity,mongodb,mysql)](https://skillicons.dev)
