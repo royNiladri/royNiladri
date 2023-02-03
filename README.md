@@ -21,12 +21,10 @@ Hello from new Readme!
 ### [JS Big Decimal](https://github.com/royNiladri/js-big-decimal) ![Travis](https://img.shields.io/travis/royNiladri/js-big-decimal.svg?style=flat-square) [![npm](https://img.shields.io/npm/v/js-big-decimal.svg?style=flat-square)](https://www.npmjs.com/package/js-big-decimal) [![npm](https://img.shields.io/npm/dt/js-big-decimal.svg?style=flat-square)](https://www.npmjs.com/package/js-big-decimal)
 
 # Life beyond Repeat
-:mortar_board: [OMSCS Journey](https://omscs.royniladri.dev/): Follow my persuit of Masters from Grorgia Institute of Technology\
+:mortar_board: [OMSCS Journey](https://omscs.royniladri.dev/): Follow my persuit of Masters from Georgia Institute of Technology\
 :camera: [Instagram@niladriclicks](https://www.instagram.com/niladriclicks/): Follow my photography\
 :pencil: [YourQuote@Nix](https://www.yourquote.in/niladri-roy-f2tt/quotes): Checkout my scribbbles
 <!-- :eye: ![Profile views](https://gpvc.arturio.dev/royNiladri) -->
-
-<a href="https://www.buymeacoffee.com/royniladri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="170"></a>
 
 # Find me @
 [![Website](https://img.shields.io/static/v1?label=&message=Roy%20Niladri&color=2069e0&style=for-the-badge)](https://royniladri.dev/)
@@ -34,7 +32,9 @@ Hello from new Readme!
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077b5&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roy-niladri/)
 [![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&color=0a0a0a&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/royniladri/)
 
-# My First 10 supporters!
+---
+
+## My First 10 supporters (Buy Me a coffee)!
 I wholeheardedly thank you all for giving my page the initial boost! These are awesome bunch of people, check out their work too!
 
 |Who|What|Where|
