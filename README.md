@@ -2,7 +2,7 @@ Hello from new Readme!
 
 # Eat Sleep Code Repeat
 ## Languages
-[![My Languages](https://skillicons.dev/icons?i=js,ts,python,sass,c,cpp,cs,java,html,css)](https://skillicons.dev)
+[![My Languages](http://skillicons.dev/icons?i=js,ts,python,sass,c,cpp,cs,java,html,css)](https://skillicons.dev)
 
 ## Frameworks + Database
 [![My Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,redux,angular,jest,spring,unity,mongodb,mysql)](https://skillicons.dev)
